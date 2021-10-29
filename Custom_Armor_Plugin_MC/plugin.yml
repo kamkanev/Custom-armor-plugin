@@ -1,0 +1,6 @@
+name: Customarmor
+version: 0.3.2
+api-version: 1.17
+author: kamcho113
+main: me.kamen.customarmor.Main
+description: Custom armors with effects, just like in the boosfer videos.
